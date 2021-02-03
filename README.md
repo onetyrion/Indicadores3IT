@@ -3,7 +3,7 @@ Aplicación que muestra una lista de indicadores a través de un historial y det
 
 La aplicación tiene como función principal mostrar los indicadores principales recogidos mediante un cliente REST desde un servicio open source ([Mi indicador](https://mindicador.cl))
 que entrega los principales indicadores económicos para Chile en formato JSON. Tanto los indicadores diarios como históricos para que desarrolladores puedan utilizarlos en sus 
-aplicaciones o sitios web seguidamente se listan los indicadores por nombre, descripción y anexo directo a vistas de detalle e historial.
+aplicaciones o sitios web. Seguidamente se listan los indicadores por nombre, descripción y links directos a vistas del detalle e historial.
 
 El historial se muestra en formato de lista dada la fecha en forma descendiente a partir de último registro, junto a la fecha se indica el valor de dicha fecha 
 conjunto a su medida dada ($ o %).
@@ -21,7 +21,7 @@ Este proyecto fue desarrollado bajo las siguientes tecnologías:
 - React-Navigation: [ Routing y navigation para aplicaciones hechas con React Native](https://reactnavigation.org)
 - React-native-chart-kit: [React Native Chart Kit: Line Chart, Bezier Line Chart, Progress Ring, Bar chart, Pie chart](https://github.com/indiespirit/react-native-chart-kit)
 - React-native-elements: [ Cross Platform React Native UI Toolkit](https://reactnativeelements.com)
-- React-native-paper: [ Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario. **Basada en Material**](https://reactjs.org)
+- React-native-paper: [ Biblioteca Javascript de código abierto diseñada para crear interfaces de usuario. **Basada en Material**](https://reactnativepaper.com)
 
 ## Quick start
 Intrucciones para la instalación y configuración.
