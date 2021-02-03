@@ -28,3 +28,8 @@ Intrucciones para la instalación y configuración.
 - Clone the repo: `git clone https://github.com/onetyrion/Indicadores3IT`.
 - Instale y configure expo según sus dispositivos
 - Ejecute el comando `expo start`
+
+
+## DEMO
+Para visualizar de manera online la aplicación 
+-https://expo.io/@onetyrion/projects/ListIndicadores
